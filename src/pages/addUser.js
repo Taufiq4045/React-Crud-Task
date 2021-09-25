@@ -5,7 +5,7 @@ import axios from 'axios';
 import { useHistory } from 'react-router';
 import { useContext } from 'react';
 import { UserContext } from '../App';
-import {Lable} from 'react-router-dom';
+//import {Lable} from 'react-router-dom';
 
 export default function AddUser(){
     const history = useHistory();
