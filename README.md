@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## To check the deployed site hit [Here](https://devil-wright-6d3ca2.netlify.app/users).
+## To check the deployed site hit [Here](https://devil-wright-6d3ca2.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
