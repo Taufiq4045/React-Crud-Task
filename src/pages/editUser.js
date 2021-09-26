@@ -28,6 +28,7 @@ export default function EditUser()
     }
     useEffect(()=>{
         getUser();
+        // eslint-disable-next-line
     },[])
 
     const sendUser=async()=>
