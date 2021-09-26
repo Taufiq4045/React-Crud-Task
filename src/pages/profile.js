@@ -15,6 +15,7 @@ export default function Profile()
     
     React.useEffect(()=>{
         getProfileData()
+        // eslint-disable-next-line
     },[])
     const param=useParams().id
     return(
