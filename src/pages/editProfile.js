@@ -28,6 +28,7 @@ export default function EditProfile()
     }
     useEffect(()=>{
         getUser();
+        // eslint-disable-next-line
     },[])
 
     const sendProfile=async()=>
